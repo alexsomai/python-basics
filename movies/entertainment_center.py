@@ -9,5 +9,8 @@ avatar = media.Movie("Avatar", "A marine on an alien planet",
                      "http://www.movieposter.com/posters/archive/main/98/MPW-49246",
                      "https://www.youtube.com/watch?v=5PSNL1qE6VY")
 
+print media.Movie.VALID_RATINGS
+print media.Movie.__doc__
+
 movies = [toy_story, avatar]
 fresh_tomatoes.open_movies_page(movies)
