@@ -1,5 +1,5 @@
-#Python basics
+# Python basics
 
-A dummy project containing basic examples using python
+A dummy project containing basic examples using python.
 
-All these examples are taken from the Udacity course "Programming foundations with Python"
+All these examples are taken from the Udacity course "Programming foundations with Python".
